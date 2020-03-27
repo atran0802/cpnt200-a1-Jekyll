@@ -1,0 +1,12 @@
+- label: Home
+  link: /
+
+- label: About
+  link: /about.html
+
+- label: Blog
+  link: /blog.html
+  
+- label: Team
+  link: /team.html
+ 
