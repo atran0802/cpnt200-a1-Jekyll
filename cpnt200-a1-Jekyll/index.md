@@ -1,9 +1,0 @@
----
-layout: default
-title: Home
----
-
-<main class="center">
-  <h1>Welcome to Sexy Time Pizza</h1>
-  <img src="assets/images/foodiesfeed.com_basic-italian-pizza-margherita.jpg" alt="margherita pizza" width="1000" height="650">
-</main>
