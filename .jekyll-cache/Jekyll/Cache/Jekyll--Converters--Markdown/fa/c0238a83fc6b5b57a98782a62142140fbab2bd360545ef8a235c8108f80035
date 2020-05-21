@@ -1,40 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Blog | Sexy Time Pizza</title>
-  <link rel="stylesheet" href="../assets/css/main.css">
-  <link rel="stylesheet" href="../assets/css/reset.css">
-  <link rel="stylesheet" href="../assets/css/fonts.css">
-</head>
-
-<nav>
-  
-    <a href="/" >Home</a>
-  
-    <a href="/about.html" >About</a>
-  
-    <a href="/blog.html"  class="active" >Blog</a>
-  
-    <a href="/team.html" >Team</a>
-  
-</nav>
-
-  <body>
-    <div class="wrapper">
-    <main>
-  <h1>Blog</h1>
-
-  <ul>
+I"A<ul>
   
     <li>
       <a href="/blog/hey-save-me-a-slice">Hey! Save me a slice</a>
       <p><strong>23 Mar 2020 - Penelope Parker</strong></p>
       <p><!-- source content -->
 <p>Hawaiian pizza is a pizza topped with tomato sauce, cheese, pineapple, and ham.</p>
-</p>
+ <span>Read more...</span></p>
       <a href="/blog/hey-save-me-a-slice" class="btn">Read more...</a>
     </li>  
   
@@ -43,7 +14,7 @@
       <p><strong>22 Mar 2020 - Peter Philips</strong></p>
       <p><!-- source content -->
 <p>Chicago-style pizza is pizza prepared according to several different styles developed in Chicago. The most famous is deep-dish pizza. The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amounts of cheese and a chunky tomato sauce. Chicago-style pizza may be prepared in deep-dish style and as a stuffed pizza.[1][2]</p>
-</p>
+ <span>Read more...</span></p>
       <a href="/blog/ugh-so-goooood" class="btn">Read more...</a>
     </li>  
   
@@ -52,7 +23,7 @@
       <p><strong>21 Mar 2020 - Penelope Parker</strong></p>
       <p><!-- source content -->
 <p>Neapolitan pizza (Italian: pizza napoletana) also known as Naples-style pizza, is a style of pizza made with tomatoes and mozzarella cheese. It must be made with either San Marzano tomatoes or Pomodorino del Piennolo del Vesuvio, which grow on the volcanic plains to the south of Mount Vesuvius, and Mozzarella di Bufala Campana, a protected designation of origin cheese made with the milk from water buffalo raised in the marshlands of Campania and Lazio in a semi-wild state and “Fior di Latte di Agerola”, a cow milk mozzarella made exclusively in the Agerola comune.[1] Neapolitan pizza is a Traditional Speciality Guaranteed (TSG) product in Europe, and the art of its making is included on UNESCO’s list of intangible cultural heritage.[2] This style pizza gave rise to the New York-style pizza that was first made by Italian immigrants to the United States in the early 20th century.[3]</p>
-</p>
+ <span>Read more...</span></p>
       <a href="/blog/simple-is-always-best" class="btn">Read more...</a>
     </li>  
   
@@ -61,7 +32,7 @@
       <p><strong>20 Mar 2020 - Penelope Parker</strong></p>
       <p><!-- source content -->
 <p>New York-style pizza is pizza made with a characteristically large hand-tossed thick crust, often sold in wide slices to go. The crust is thick and crisp only along its edge, yet soft, thin, and pliable enough beneath its toppings to be folded in half to eat.[1] Traditional toppings are simply tomato sauce and shredded mozzarella cheese.[2]</p>
-</p>
+ <span>Read more...</span></p>
       <a href="/blog/always-a-sexy-time-in-time-square" class="btn">Read more...</a>
     </li>  
   
@@ -70,17 +41,9 @@
       <p><strong>19 Mar 2020 - Alex Tran</strong></p>
       <p><!-- source content -->
 <p>A calzone (UK: /kælˈtsoʊni, -neɪ/, US: /kælˈzoʊn, -zoʊneɪ, -ni/, Italian: [kalˈtsoːne]; “stocking” or “trouser”)[1] is an Italian oven-baked folded pizza[2] that originated in Naples[3] in the 18th century.[4] A typical calzone is made from salted bread dough, baked in an oven and is stuffed with salami, ham or vegetables, mozzarella, ricotta and Parmesan or pecorino cheese, as well as an egg.[3] Different regional variations in or on a calzone can often include other ingredients that are normally associated with pizza toppings. The term usually applies to an oven-baked turnover rather than a fried pastry (i.e. panzerotti),[5] though calzoni and panzerotti are often mistaken for each other.[5][6][7][8]</p>
-</p>
+ <span>Read more...</span></p>
       <a href="/blog/calzone" class="btn">Read more...</a>
     </li>  
   
 </ul>
-
-</main>
-    </div>
-    <footer>
-  <p>&copy; Alex Tran 2020</p>
-</footer>
-  </body>
-  
-</html>
+:ET

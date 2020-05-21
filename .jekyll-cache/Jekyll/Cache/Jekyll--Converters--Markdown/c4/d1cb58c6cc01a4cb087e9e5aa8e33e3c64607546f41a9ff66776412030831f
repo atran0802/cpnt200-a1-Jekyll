@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Blog | Sexy Time Pizza</title>
-  <link rel="stylesheet" href="../assets/css/main.css">
-  <link rel="stylesheet" href="../assets/css/reset.css">
-  <link rel="stylesheet" href="../assets/css/fonts.css">
-</head>
-
-<nav>
-  
-    <a href="/" >Home</a>
-  
-    <a href="/about.html" >About</a>
-  
-    <a href="/blog.html"  class="active" >Blog</a>
-  
-    <a href="/team.html" >Team</a>
-  
-</nav>
-
-  <body>
-    <div class="wrapper">
-    <main>
-  <h1>Blog</h1>
-
-  <ul>
+I"¿<ul>
   
     <li>
       <a href="/blog/hey-save-me-a-slice">Hey! Save me a slice</a>
@@ -75,12 +46,4 @@
     </li>  
   
 </ul>
-
-</main>
-    </div>
-    <footer>
-  <p>&copy; Alex Tran 2020</p>
-</footer>
-  </body>
-  
-</html>
+:ET
