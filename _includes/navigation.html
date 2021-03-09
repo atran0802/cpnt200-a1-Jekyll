@@ -1,5 +1,10 @@
-<nav>
-  {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if item.link == page.url %} class="active" {% endif %}>{{ item.label }}</a>
-  {% endfor %}
-</nav>
+<header>
+  <div class="logo">
+    <a href="/"><img src="{{site.baseurl}}/assets/images/sexy time pizza logo.png" alt="logo"/></a>
+  </div>
+  <nav>
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}" {% if item.link == page.url %} class="active" {% endif %}>{{ item.label }}</a>
+    {% endfor %}
+  </nav>
+</header>
